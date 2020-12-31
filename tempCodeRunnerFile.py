@@ -1,0 +1,1 @@
+file = open('model.pkl', 'rb')
